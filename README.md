@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LaraSamara?tab=repositories](https://github.com/LaraSamara?tab=repositories)
+- 👨‍💻 All of my projects are available at [<a href=" https://github.com/LaraSamara?tab=repositories">Projects</a>](<a href=" https://github.com/LaraSamara?tab=repositories">Projects</a>)
 
 - 💬 Ask me about **React.js, Node.js**
 
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lara-samara-58b721287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lara-samara-58b721287/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lara.samara.3538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lara.samara.3538" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/larasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/larasa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lara-samara-58b721287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lara-samara-58b721287" height="30" width="40" /></a>
+<a href="https://fb.com/lara.samara.3538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lara.samara.3538" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/larasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="larasa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/larasamara2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="larasamara2002" height="30" width="40" /></a>
 </p>
 
