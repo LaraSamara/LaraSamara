@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/LaraSamara?tab=repositories" target="blank">Projects</a>
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **larasamara2002@gmail.com**
 
