@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at <a href=" https://github.com/LaraSamara?tab=repositories">Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/LaraSamara?tab=repositories" target="blank">Projects</a>
 
 - 💬 Ask me about **React.js, Node.js**
 
