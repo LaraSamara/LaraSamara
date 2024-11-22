@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasamara&" alt="larasamara" /></p>
 ### 📉 Contribution Graph
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaiswaladi246&theme=github-compact" alt="Contribution Graph"/>
+   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LaraSamara/LaraSamara/output/github-contribution-grid-snake.svg" />
 </div>
