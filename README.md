@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larasamara&show_icons=true&locale=en" alt="larasamara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasamara&" alt="larasamara" /></p>
+### 📉 Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaiswaladi246&theme=github-compact" alt="Contribution Graph"/>
+</div>
