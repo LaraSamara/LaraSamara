@@ -30,6 +30,10 @@
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larasamara&show_icons=true&locale=en&layout=compact" alt="larasamara" /></p>
 </br>
+</br>
+</br>
+</br>
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larasamara&show_icons=true&locale=en" alt="larasamara" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasamara&" alt="larasamara" /></p>
