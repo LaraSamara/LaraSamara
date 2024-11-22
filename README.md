@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lara Samara</h1>
 <h3 align="center">A Passiontae Software Engineer From Palestine.</h3>
+</br>
+</br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larasamara&label=Profile%20views&color=0e75b6&style=flat" alt="larasamara" /> </p>
@@ -7,6 +9,10 @@
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/LaraSamara?tab=repositories" target="blank">Projects</a>.
 
 - 📫 How to reach me **larasamara2002@gmail.com**
+</br>
+</br>
+</br>
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
