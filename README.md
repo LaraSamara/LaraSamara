@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">A Passiontae Software Engineer From Palestine.</h3>
 </br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larasamara&label=Profile%20views&color=0e75b6&style=flat" alt="larasamara" /> </p>
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/LaraSamara?tab=repositories" target="blank">Projects</a>.
