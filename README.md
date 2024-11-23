@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lara Samara</h1>
 <br>
-<h3 align="center">A Passiontae Software Engineer From Palestine.</h3>
+<h3 align="center">A Passionate Software Engineer From Palestine.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
