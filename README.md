@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larasamara&label=Profile%20views&color=0e75b6&style=flat" alt="larasamara" /> </p>
 
-- 👨‍💻 All of my projects are available at  <a href="https://github.com/LaraSamara?tab=repositories" target="blank"> My Repositories</a>.
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/LaraSamara?tab=repositories" target="blank"> My Repositories</a>
 
 - 📫 How to reach me **larasamara2002@gmail.com**
 
