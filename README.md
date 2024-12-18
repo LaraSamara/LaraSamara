@@ -31,3 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larasamara&" alt="larasamara" /></p>
 </br>
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LaraSamara&show_icons=true&theme=gruvbox&count_private=true" alt="LaraSamara's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaraSamara&theme=xcode&hide_border=true" />
+  </div>
